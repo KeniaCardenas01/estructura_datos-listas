@@ -1,5 +1,3 @@
-# base_datos.py
-
 # Base de datos: Lista principal que almacena pares de números
 lista_numeros = []
 

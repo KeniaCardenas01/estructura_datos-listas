@@ -1,4 +1,3 @@
-# formulario.py
 import base_datos as base
 
 def menu():
